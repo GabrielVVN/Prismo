@@ -1,0 +1,7 @@
+<ul class="footer-info">
+  <span>IFB Brasília</span>
+  <li>Via L2 Norte, SGAN 610 (610 Norte) Asa Norte. Brasília/DF</li>
+  <li>Telefone: (61) 2193-8084</li>
+  <li>Email: christine.lourenco@ifb.edu.br</li>
+  <li>Horário de Funcionamento: 8h às 18h</li>
+</ul>
